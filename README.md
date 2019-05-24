@@ -1,2 +1,0 @@
-# Data_Science_Capstone
-Coursera_Capstone
